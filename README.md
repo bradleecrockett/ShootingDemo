@@ -1,9 +1,17 @@
-# p5.js
+# Shooting Demo
 
-This is the Template Repl for p5.js.
+Watch the videos and follow along to use arrays (lists) to create projectiles.
 
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
+Part 1: Create a list of projectiles and display them: https://youtu.be/Aw9kMrPktfc 
 
-[Check out the official docs here](https://p5js.org/reference/).
+Part 2: Removing projectiles that went off-canvas: https://youtu.be/HBZxTdi04Zk 
 
+Part 3: Checking for collisions: https://youtu.be/OAgn87WNX0I 
 
+When you are done, you can expand the project to:
+* Implement the scoring system
+* Create more enemies
+* Make the player shoot up instead of across
+* Add a second player to make dodgeball and throw projectiles at each other
+* Move the player and shoot in multiple directions (up, down left right)
+* Use the mouse to aim the projectiles 
