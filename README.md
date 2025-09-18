@@ -15,3 +15,17 @@ When you are done, you can expand the project to:
 * Add a second player to make dodgeball and throw projectiles at each other
 * Move the player and shoot in multiple directions (up, down left right)
 * Use the mouse to aim the projectiles 
+
+## Grading Rubric
+
+|Requirement | Possible | Earned |
+|---|:---:|:---:|
+You can shoot a proejectile with a mouse press (or key press) | 2 |  |
+The projectiles move across the screen | 2 |  |
+Projectile positions are stored using a list | 2 | |
+Projectiles can collide with the "enemy" | 2 |  |
+ | | |
+Extra additions | 2+ | |
+**Total** | 10 | | 
+
+
